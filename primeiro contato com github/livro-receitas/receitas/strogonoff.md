@@ -14,7 +14,7 @@
  - Pimenta-do-reino a gosto
  - Sal a gosto
 
-### ingredientes
+### Modo de Preparo
 
  - Tempere o frango apenas com a maionese e reserve por uns 30 min.
 Em uma panela, coloque o azeite e frite o alho, junte o frango, os cogumelos e deixe cozinhar em fogo baixo.
